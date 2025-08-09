@@ -33,5 +33,6 @@ Perform Exploratory Data Analysis on the Superstore dataset and build an interac
 ![Sales vs Profit by Product](pic/4.png)
 
 
-
+Slava Alkhazov
+v.alkhazov96@gmail.com
    
