@@ -26,11 +26,7 @@ Perform Exploratory Data Analysis on the Superstore dataset and build an interac
   Open Superstore_EDA.ipynb in Jupyter or Colab for detailed EDA.
 
 
-## Dashboard Screenshots
-![Monthly Sales & Category](pic/1.png)
-![Total Sales by Region and Top 5 Products](pic/2.png)
-![Sales by Sub-Category and Segment](pic/3.png)
-![Sales vs Profit by Product](pic/4.png)
+
 
 
 Slava Alkhazov
